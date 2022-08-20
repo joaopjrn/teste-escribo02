@@ -2,9 +2,12 @@
 
 **Descrição**
 
-Implemente uma função que receba um número inteiro positivo e retorne o
-somatório de todos os valores inteiros divisíveis por 3 ou 5 que sejam inferiores ao
-número passado.
+O objetivo deste teste é implementar um jogo de labirinto no flutter. similar ao pacman.
+
+## Preview
+
+https://user-images.githubusercontent.com/89490762/185725073-6327bc8f-b6ca-41f2-8c5f-fa582687be84.mp4
+
 
 ## Como executar o código
 
