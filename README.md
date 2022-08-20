@@ -1,16 +1,16 @@
-# pac_ninja
+# Teste Técnico 02 - Escribo
 
-A new Flutter project.
+**Descrição**
 
-## Getting Started
+Implemente uma função que receba um número inteiro positivo e retorne o
+somatório de todos os valores inteiros divisíveis por 3 ou 5 que sejam inferiores ao
+número passado.
 
-This project is a starting point for a Flutter application.
+## Como executar o código
 
-A few resources to get you started if this is your first Flutter project:
+Para rodar este código é necessário ter o [Flutter](https://flutter.dev/) instalado.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Clone o repositório, abra o terminal do sistema na raiz do projeto.
+- Digite o comando "flutter pub get" para instalar as dependências do projeto.
+- Digite o comando "flutter run -d chrome" para abrir no chrome.
+- Digite o comando "flutter run -d windows" para abrir no windows.
