@@ -17,3 +17,6 @@ Para rodar este código é necessário ter o [Flutter](https://flutter.dev/) ins
 - Digite o comando "flutter pub get" para instalar as dependências do projeto.
 - Digite o comando "flutter run -d chrome" para abrir no chrome.
 - Digite o comando "flutter run -d windows" para abrir no windows.
+
+## Download de executável para Windows
+[Download](https://github.com/joaopjrn/teste-escribo02/releases/tag/windows)
